@@ -1,5 +1,7 @@
 # BharatIntern
-2 projects I did to earn my AI Internship Certificate
+2 projects I did to earn my AI Internship Certificate.
+
+There are two ipynb files in this repository, each file is for a separate project, no 2 are connected to the other one.
 
 The first one is the Auto Correct Tool
 
